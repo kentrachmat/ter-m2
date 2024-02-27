@@ -12,3 +12,5 @@
 - [RelevAI guide](https://colab.research.google.com/drive/1lOrNl6ehYheM2ybtSwHCmtyyEUmCIlJd?usp=sharing)
 - [Scrapping papers from Semantic Scholar](https://colab.research.google.com/drive/1winRdPVkbB7G71XTGUPDsQIJTbGapOdl?usp=sharing)
 - [Binary classification](https://colab.research.google.com/drive/1Ni1l0Orl0G9VrPtjT8odRhpp-dEWoOow?usp=sharing)
+- [Prompt Generator](https://www.kaggle.com/code/kentrachmat/ter-prompt-generator)
+- [Data Parser](https://colab.research.google.com/drive/1D-Z3SDmTwrEC7qIFtCgwrzyIhKq0j80t)
